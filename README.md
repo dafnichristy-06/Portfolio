@@ -114,7 +114,7 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Phone: 7530052447</p>
+        <p>Phone: 9962369215</p>
         <p>Email: <a href="mailto:dafnichristy@gmail.com">dafnichristy@gmail.com</a></p>
         <p>Location: Perungalathur, Chennai</p>
     </section>
